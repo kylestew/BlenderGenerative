@@ -1,0 +1,6 @@
+[submodule "geom"]
+	path = geom
+	url = git@github.com:kylestew/geom.git
+[submodule "geom_cairo"]
+	path = geom_cairo
+	url = git@github.com:kylestew/geom_cairo.git

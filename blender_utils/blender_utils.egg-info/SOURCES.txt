@@ -1,0 +1,7 @@
+setup.py
+blender_utils/__init__.py
+blender_utils/scene.py
+blender_utils.egg-info/PKG-INFO
+blender_utils.egg-info/SOURCES.txt
+blender_utils.egg-info/dependency_links.txt
+blender_utils.egg-info/top_level.txt

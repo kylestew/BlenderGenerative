@@ -41,3 +41,9 @@ ctx.draw(poly, attribs={ctx.STROKE: [1.0, 0.0, 0.0, 0.5], ctx.LINE_WIDTH: 1.0})
 ctx.draw(pts, attribs={ctx.STROKE: [1, 1, 1, 0.8]})
 
 ctx.display()
+
+
+# %%
+import blender_utils as utils
+
+utils.setup_scene()
